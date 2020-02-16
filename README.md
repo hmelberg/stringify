@@ -38,6 +38,7 @@ id |  pattern
 3 |     y   
 
  ```count.overlap(pattern_x, pattern_y)```
+
 id |  #overlap
 ---|---------
 1 | 9
